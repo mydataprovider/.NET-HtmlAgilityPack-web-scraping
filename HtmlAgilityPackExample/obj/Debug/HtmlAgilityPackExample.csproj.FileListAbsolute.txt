@@ -1,0 +1,9 @@
+d:\mydataprovider-git\.NET-HtmlAgilityPack\.NET-HtmlAgilityPack-web-scraping\HtmlAgilityPackExample\bin\Debug\HtmlAgilityPackExample.exe
+d:\mydataprovider-git\.NET-HtmlAgilityPack\.NET-HtmlAgilityPack-web-scraping\HtmlAgilityPackExample\bin\Debug\HtmlAgilityPackExample.pdb
+d:\mydataprovider-git\.NET-HtmlAgilityPack\.NET-HtmlAgilityPack-web-scraping\HtmlAgilityPackExample\bin\Debug\HtmlAgilityPack.dll
+d:\mydataprovider-git\.NET-HtmlAgilityPack\.NET-HtmlAgilityPack-web-scraping\HtmlAgilityPackExample\obj\Debug\HtmlAgilityPackExample.csprojResolveAssemblyReference.cache
+d:\mydataprovider-git\.NET-HtmlAgilityPack\.NET-HtmlAgilityPack-web-scraping\HtmlAgilityPackExample\obj\Debug\HtmlAgilityPackExample.MainForm.resources
+d:\mydataprovider-git\.NET-HtmlAgilityPack\.NET-HtmlAgilityPack-web-scraping\HtmlAgilityPackExample\obj\Debug\HtmlAgilityPackExample.Properties.Resources.resources
+d:\mydataprovider-git\.NET-HtmlAgilityPack\.NET-HtmlAgilityPack-web-scraping\HtmlAgilityPackExample\obj\Debug\HtmlAgilityPackExample.csproj.GenerateResource.Cache
+d:\mydataprovider-git\.NET-HtmlAgilityPack\.NET-HtmlAgilityPack-web-scraping\HtmlAgilityPackExample\obj\Debug\HtmlAgilityPackExample.exe
+d:\mydataprovider-git\.NET-HtmlAgilityPack\.NET-HtmlAgilityPack-web-scraping\HtmlAgilityPackExample\obj\Debug\HtmlAgilityPackExample.pdb
