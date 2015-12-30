@@ -40,9 +40,9 @@ namespace HtmlAgilityPackExample
                 }
             }
             catch (Exception ex)
-            { 
+            {
+                textBoxOutput.Text = ex.Message;
             }
-
         }
     }
 }
